@@ -1,0 +1,43 @@
+# ¶ 28.01    Header for Statement of Reasons for Substantial New Question of Patentability Determination
+
+## REASONS FOR SUBSTANTIAL NEW QUESTION OF PATENTABILITY DETERMINATION
+
+# ¶ 28.02    Reasons for Finding No Substantial New Question of Patentability
+
+**[1]**, as presented in the request, does not raise a substantial new question of patentability because **[2]**.
+
+### Examiner Note:
+
+1. In bracket 1, insert the name or description, as appropriate, for the item of information. For example, a patent or patent application publication may be designated using the name of the patentee or first-named inventor, such as "the Jones patent," "the Jones patent application publication," or the number of the patent or patent application publication. A non-patent literature document may be designated by the name of the author, such as the "the Sherwood publication" and the date of the publication, if desired. A sales receipt or invoice should be designated using the date of the receipt, and any appropriate descriptive information, such as "the March 11, 2011, BigBoxStore sales receipt," or "the April 1, 2011 XYZ Corporation invoice." An affidavit or declaration should be designated using the name of the declarant and the date of the affidavit or declaration, such as "the Schmidt declaration dated January 20, 2012." A transcript of an audio or video recording should be designated using the title of the recording and the date of the recording, if applicable, such as "the transcript of the September 16, 2012 XYZ Corporation Marketing Video." A discussion within the body of the request regarding a potential issue under **[35 U.S.C. 101](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e302376.html)**  may be designated, for example, as "the discussion on pages 7-11 of the request regarding a potential issue under **[35 U.S.C. 101](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e302376.html)**."
+
+2. In bracket 2, insert the reasons for the determination that the item of information does not raise a substantial new question of patentability.
+
+# ¶ 28.03    Reasons for Finding A Substantial New Question of Patentability
+
+**[1]**, as presented in the request, raises a substantial new question of patentability affecting patent claim(s) **[2]** because **[3]**.
+
+### Examiner Note:
+
+1. In bracket 1, insert the name or description, as appropriate, for the item of information. For example, a patent or patent application publication may be designated using the name of the patentee or first-named inventor, such as "the Jones patent," "the Jones patent application publication," or the number of the patent or patent application publication. A non-patent literature document may be designated by the name of the author, such as the "the Sherwood publication" and the date of the publication, if desired. A sales receipt or invoice should be designated using the date of the receipt, and any appropriate descriptive information, such as " the March 11, 2011, BigBoxStore sales receipt," or "the April 1, 2011, XYZ Corporation invoice." An affidavit or declaration should be designated using the name of the declarant and the date of the affidavit or declaration, such as "the Schmidt declaration dated January 20, 2012." A transcript of an audio or video recording should be designated using the title of the recording and the date of the recording, if applicable, such as "the transcript of the September 16, 2012, XYZ Corporation Marketing Video." A discussion within the body of the request regarding a potential issue under **[35 U.S.C. 101](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e302376.html)**  may be designated, for example, as "the discussion on pages 7-11 of the request regarding a potential issue under **[35 U.S.C. 101](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e302376.html)**."
+
+2. In bracket 2, insert the claims for which a substantial new question of patentability has been raised.
+
+3. In bracket 3, insert the reasons for the determination that the item of information raises a substantial new question of patentability (SNQ). If a SNQ is found for only a portion of the claims identified with respect to the item of information, then an additional statement may be included explaining why a SNQ was found with respect to some of the identified claims, and why a SNQ was not found with respect to the remainder of the identified claims. For example, if the patent owner requests supplemental examination of claims 1-10 in view of the Schmidt patent, and the examiner finds that a substantial new question of patentability affecting only patent claims 1-5 is raised by that item of information, then the form paragraph may be completed by, for example, stating "The Schmidt patent, as presented in the request, raises a substantial new question of patentability affecting patent claims 1-5 because [provide reasons]. However, the Schmidt patent, as presented in the request, does not raise a substantial new question of patentability affecting patent claims 6-10 because [provide reasons]."
+
+# ¶ 28.04    Reexamination Ordered Pursuant to 35 U.S.C. 257
+
+## Reexamination Ordered Pursuant to 35 U.S.C. 257
+
+The supplemental examination proceeding, filed on **[1]**, concluded with the issuance of the supplemental examination certificate on **[2]**. The certificate indicated that one or more of the items of information submitted as part of the request for supplemental examination raises a substantial new question of patentability. See the Reasons for Substantial New Question of Patentability Determination in the file of this proceeding.
+
+Accordingly, _ex parte_ reexamination of claim(s) **[3]** of U.S. Patent No. **[4]** is ordered. See **[35 U.S.C. 257(b)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//al_d1b138_208e1_350.html##al_d1d85b_2c07a_1a1)**  and **[37 CFR 1.625(b)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//ar_d1d8b7_28560_c5.html##ar_d1d8bb_146f4_2a9)**. This _ex parte_ reexamination proceeding is hereby initiated by the mailing of this order. _Ex parte_ reexamination under **[35 U.S.C. 257](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//al_d1b138_208e1_350.html)**  will be conducted in accordance with **[37 CFR 1.530](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e330194.html)**  through **[1.570](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e330878.html)**, which govern _ex parte_ reexamination, subject to the exceptions enumerated in **[37 CFR 1.625(d)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//ar_d1d8b7_28560_c5.html##ar_d1d8bb_14842_99)**, and, in addition, to the exception that a patent owner’s statement, including any amendment, under **[37 CFR 1.530(a)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e330194.html##d0e330217)**  -**[(c)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//d0e330194.html##d0e330240)**  may not be filed. See **[35 U.S.C. 257(b)](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//al_d1b138_208e1_350.html##al_d1d85b_2c07a_1a1)**. For this reason, no amendment in an _ex parte_ reexamination proceeding ordered under **[35 U.S.C. 257](https://mpep.uspto.gov/RDMS/MPEP/print?version=current&href=2800.html#//al_d1b138_208e1_350.html)**  may be filed until after the mailing of a first Office action on the merits (which appears below). This reexamination proceeding has been assigned to the art unit listed at the top of the cover page of this action. All future correspondence should be directed to the assigned art unit and should be identified by the control number, which is also listed at the top of the cover page of this action, and which is identical to the control number assigned to the now-concluded supplemental examination proceeding.
+
+A first Office action on the merits appears below.
+
+### Examiner Note:
+
+1. In brackets 1 and 2, insert the filing date of the supplemental examination proceeding and the issue date of the supplemental examination certificate, respectively, as they appear on the certificate.
+
+2. In bracket 3, list the claims for which a substantial new question of patentability was found, per the Statement of Reasons for Substantial New Question of Patentability Determination.
+
+3. In bracket 4, list the patent number as shown on the supplemental examination certificate.

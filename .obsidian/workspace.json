@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "78768b50238da3c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9122e338abc1f519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdd2ff5ada65563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cases/Supreme Court/Adams v. Burke, 84 U.S. 453 (1873).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adams v. Burke, 84 U.S. 453 (1873)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "211110dcc5f6e7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb3aad8e4ce9a130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f2881e7278c1a08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54432a50b5b5d2ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba126803f02c1816",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "39fb1f44fe9b0b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "535a20ade8c8cd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ebb4ebca0745f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Goal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Goal"
+            }
+          },
+          {
+            "id": "b35502db542d642f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Goal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Goal"
+            }
+          },
+          {
+            "id": "d411636eaa1cba6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b3e71eb8fed0741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Goal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Goal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cbdd2ff5ada65563",
+  "lastOpenFiles": [
+    "README.md",
+    "Read.me.md",
+    "Cases.md",
+    "Cases",
+    "Supreme_Court_Patent_Cases2/Cases",
+    "Cases/Supreme Court/eBay Inc. v. MercExchange, L. L. C., 547 U.S. 388 (2006).md",
+    "Cases/Supreme Court/Westinghouse v. Boyden Power Brake Co., 170 U.S. 537 (1898).md",
+    "Cases/Supreme Court/Warner-Jenkinson Co., Inc. v. Hilton Davis Chemical Co., 520 U.S. 17 (1997).md",
+    "Cases/Supreme Court/United States v. General Electric Co., 272 U.S. 476 (1926).md",
+    "Cases/Supreme Court/U.S. Supreme Court Opinions by Volume.md",
+    "Cases/Supreme Court/U.S. Supreme Court Opinions by Chief Justice and Year.md",
+    "Cases/Supreme Court/U.S. Federal District Courts Case Law.md",
+    "Cases/Supreme Court/U.S. Federal Courts of Appeals Case Law.md",
+    "Cases/Supreme Court/U.S. Case Law.md",
+    "Cases/Supreme Court/Telephone Cases, 126 U.S. 1 (1888).md",
+    "Cases/Supreme Court/Special Equipment Co. v. Coe, 324 U.S. 370 (1945).md",
+    "Cases/Supreme Court/Sears, Roebuck & Co. v. Stiffel Co., 376 U.S. 225 (1964).md",
+    "Cases/Supreme Court/Samsung Electronics Co. v. Apple Inc., 580 U.S. ___ (2016).md",
+    "Cases/Supreme Court/Sakraida v. Ag Pro, Inc., 425 U.S. 273 (1976).md",
+    "Cases/Supreme Court/Quanta Computer, Inc. v. LG Electronics, Inc., 553 U.S. 617 (2008).md",
+    "Cases/Supreme Court/Pfaff v. Wells Electronics, Inc., 525 U.S. 55 (1998).md",
+    "Cases/Supreme Court/Parker v. Flook, 437 U.S. 584 (1978).md",
+    "Cases/Supreme Court/Oil States Energy Services, LLC v. Greene's Energy Group, LLC, 584 U.S. ___ (2018).md",
+    "Cases/Supreme Court/Nautilus, Inc. v. Biosig Instruments, Inc, 572 U.S. 898 (2014).md",
+    "Cases/Supreme Court/Minerva Surgical, Inc. v. Hologic, Inc., 594 U.S. ___ (2021).md",
+    "Cases/Supreme Court/Microsoft Corp. v. i4i Limited Partnership, 564 U.S. 91 (2010).md",
+    "Cases/Supreme Court/Mayo Collaborative Services v. Prometheus Laboratories, Inc., 566 U.S. 66 (2012).md",
+    "Cases/Supreme Court/Markman v. Westview Instruments, Inc., 517 U.S. 370 (1996).md",
+    "Cases/Supreme Court",
+    "Supreme_Court_Patent_Cases/eBay Inc. v. MercExchange, L. L. C., 547 U.S. 388 (2006)",
+    "Supreme_Court_Patent_Cases/Westinghouse v. Boyden Power Brake Co., 170 U.S. 537 (1898)",
+    "Supreme_Court_Patent_Cases/Warner-Jenkinson Co., Inc. v. Hilton Davis Chemical Co., 520 U.S. 17 (1997)",
+    "Supreme_Court_Patent_Cases/United States v. General Electric Co., 272 U.S. 476 (1926)",
+    "Supreme_Court_Patent_Cases/U.S. Supreme Court Opinions by Volume",
+    "Supreme_Court_Patent_Cases/U.S. Supreme Court Opinions by Chief Justice and Year",
+    "Supreme_Court_Patent_Cases/U.S. Federal District Courts Case Law"
+  ]
+}
